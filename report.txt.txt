@@ -1,0 +1,3 @@
+1. There's a correlation between temperature and latitude: the closer you get to the equater the higher the temperature gets
+2. There's no direct correlation between latitude and humidity as well as cloudiness. Latitute doesn't effect these weather conditions in any way
+3. Wind speed seems to be within 20-25 mph fro most of the cities with ocasional cases of stronger winds +-40 and further from the equater
